@@ -23,7 +23,7 @@ export class App extends Component {
                 <StudentRow student={student} />
             </div> );
         });
-        console.log(studentMarkup);
+
         return(
             <div className="App Bgc(white)">
                 <div className="W(100%) Bgc(white) Bdb(1px) Bdbc(#eee) Bdbs(s) Ta(s) W(100%) P(20px) Pstart(35px)">

@@ -91,11 +91,23 @@
 .Bdcl\(c\) {
   border-collapse: collapse;
 }
+.C\(\#1ac567\) {
+  color: #1ac567;
+}
 .C\(\#707070\) {
   color: #707070;
 }
 .C\(\#ba1233\) {
   color: #ba1233;
+}
+.C\(\#ffc300\) {
+  color: #ffc300;
+}
+.C\(black\) {
+  color: black;
+}
+.C\(\#0078ff\)\:h:hover {
+  color: #0078ff;
 }
 .Cur\(p\) {
   cursor: pointer;
@@ -106,20 +118,32 @@
 .D\(ib\) {
   display: inline-block;
 }
+.Flxb\(150px\) {
+  flex-basis: 150px;
+}
+.Flxb\(205px\) {
+  flex-basis: 205px;
+}
 .Ai\(c\) {
   align-items: center;
 }
 .Jc\(fs\) {
   justify-content: flex-start;
 }
-.Jc\(sb\), .Jc\(sb\)--med {
+.Jc\(sb\)--med {
   justify-content: space-between;
 }
 .Flw\(w\) {
   flex-wrap: wrap;
 }
+.Fw\(b\) {
+  font-weight: bold;
+}
 .Fz\(16px\) {
   font-size: 16px;
+}
+.Fz\(22px\) {
+  font-size: 22px;
 }
 .H\(0\) {
   height: 0;
@@ -188,6 +212,9 @@
 }
 .Ta\(s\) {
   text-align: start;
+}
+.Td\(n\) {
+  text-decoration: none;
 }
 .W\(0\) {
   width: 0;

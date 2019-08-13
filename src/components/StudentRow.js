@@ -27,7 +27,7 @@ export class StudentRow extends Component {
 
         const companyMarkup = companies.map((company) => {
             return (
-                <div className="Px(5px)">
+                <div key={company.NAME + 'hi'}className="Px(5px)">
                     <img className="Bdrs(3px)" src={company.LOGO} width="40px" />
                 </div>
             );
