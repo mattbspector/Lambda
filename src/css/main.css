@@ -85,7 +85,7 @@
 .Ai\(c\) {
   align-items: center;
 }
-.Jc\(sb\) {
+.Jc\(sb\)--med {
   justify-content: space-between;
 }
 .Flw\(w\) {
@@ -158,4 +158,13 @@
 }
 .W\(80\%\) {
   width: 80%;
+}
+@media(max-width:500px) {
+  .Jc\(c\)--sm {
+    justify-content: center;
+  }
+  .My\(10px\)--sm {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 }

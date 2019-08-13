@@ -18,7 +18,7 @@ export class StudentRow extends Component {
 
 
         return(
-            <div className="StudentRow D(f) Jc(sb) Ai(c) Flw(w)">
+            <div className="StudentRow D(f) Jc(sb)--med Jc(c)--sm Ai(c) Flw(w)">
                 <div className="D(f) Ai(c) nameRow">
                     <div className="W(100px) Ta(c)">
                         <img src={student.IMAGE} height="70px" />
@@ -28,7 +28,7 @@ export class StudentRow extends Component {
                         <div className="C(#ba1233) Mt(5px)">{student.TRACK}</div>
                     </div>
                 </div>
-                <div className="Ta(c)">
+                <div className="Ta(c) My(10px)--sm">
                     <div>Course Progress</div>
                     <div className="W(100%) Mt(15px)">
                         <div className="Pos(r) D(ib) Bgc(#1ac567) H(10px) Bdrststart(5px) Bdrsbstart(5px)" style={progressStyle}>
@@ -37,7 +37,7 @@ export class StudentRow extends Component {
                         <div className="D(ib) Bgc(white) H(10px) Bdrstend(5px) Bdrsbend(5px)" style={restOfProgress}></div>
                     </div>
                 </div>
-                <div className="Ta(c)">
+                <div className="Ta(c) My(10px)--sm">
                     <div>Companies</div>
                     <div className="D(f) Mt(7px)">
                         {companyMarkup}

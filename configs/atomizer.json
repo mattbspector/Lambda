@@ -1,4 +1,8 @@
 {
+  "breakPoints": {
+    "sm": "@media(max-width:500px)",
+    "md": "@media(min-width:501px)"
+  },
   "classNames": [
     "Ai(c)",
     "Bd(1px)",
@@ -36,11 +40,13 @@
     "Fz(16px)",
     "H(0)",
     "H(10px)",
-    "Jc(sb)",
+    "Jc(c)--sm",
+    "Jc(sb)--med",
     "Mt(15px)",
     "Mt(5px)",
     "Mt(7px)",
     "Mx(a)",
+    "My(10px)--sm",
     "My(5px)",
     "P(20px)",
     "Pos(a)",

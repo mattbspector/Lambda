@@ -9,7 +9,7 @@ let atomizerConfig = {
     },
     files: [
         {
-            src: ['src/**/*.js'],
+            src: ['configs/atomizer-custom.json', 'src/**/*.js'],
             dest: 'src/css/main.css'
         }
     ]
