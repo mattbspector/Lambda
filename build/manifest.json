@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Lambda School Student Tracker",
+  "name": "Track Student Progress",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5cd0922159aa32213d6fd7d4_lambda-newlogo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
