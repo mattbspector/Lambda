@@ -1,0 +1,161 @@
+.Bdc\(\#eeeeee\) {
+  border-color: #eeeeee;
+}
+.Bdtc\(\#1ac567\) {
+  border-top-color: #1ac567;
+}
+.Bdendc\(t\) {
+  border-right-color: transparent;
+}
+.Bdbc\(\#eee\) {
+  border-bottom-color: #eee;
+}
+.Bdstartc\(t\) {
+  border-left-color: transparent;
+}
+.Bds\(s\) {
+  border-style: solid;
+}
+.Bdts\(s\) {
+  border-top-style: solid;
+}
+.Bdends\(s\) {
+  border-right-style: solid;
+}
+.Bdbs\(s\) {
+  border-bottom-style: solid;
+}
+.Bdstarts\(s\) {
+  border-left-style: solid;
+}
+.Bdtw\(8px\) {
+  border-top-width: 8px;
+}
+.Bdendw\(5px\) {
+  border-right-width: 5px;
+}
+.Bdstartw\(5px\) {
+  border-left-width: 5px;
+}
+.Bdrs\(3px\) {
+  border-radius: 3px;
+}
+.Bdrs\(6px\) {
+  border-radius: 6px;
+}
+.Bdrstend\(5px\) {
+  border-top-right-radius: 5px;
+}
+.Bdrsbend\(5px\) {
+  border-bottom-right-radius: 5px;
+}
+.Bdrsbstart\(5px\) {
+  border-bottom-left-radius: 5px;
+}
+.Bdrststart\(5px\) {
+  border-top-left-radius: 5px;
+}
+.Bgc\(\#1ac567\) {
+  background-color: #1ac567;
+}
+.Bgc\(\#e9eaec\) {
+  background-color: #e9eaec;
+}
+.Bgc\(white\) {
+  background-color: white;
+}
+.Bgc\(\#f5f5f5\)\:h:hover {
+  background-color: #f5f5f5;
+}
+.Bdcl\(c\) {
+  border-collapse: collapse;
+}
+.C\(\#ba1233\) {
+  color: #ba1233;
+}
+.Cur\(p\) {
+  cursor: pointer;
+}
+.D\(f\) {
+  display: flex;
+}
+.D\(ib\) {
+  display: inline-block;
+}
+.Ai\(c\) {
+  align-items: center;
+}
+.Jc\(sb\) {
+  justify-content: space-between;
+}
+.Flw\(w\) {
+  flex-wrap: wrap;
+}
+.Fz\(16px\) {
+  font-size: 16px;
+}
+.H\(0\) {
+  height: 0;
+}
+.H\(10px\) {
+  height: 10px;
+}
+.Mx\(a\) {
+  margin-left: auto;
+  margin-right: auto;
+}
+.My\(5px\), .Mt\(5px\) {
+  margin-top: 5px;
+}
+.My\(5px\) {
+  margin-bottom: 5px;
+}
+.Mt\(15px\) {
+  margin-top: 15px;
+}
+.Mt\(7px\) {
+  margin-top: 7px;
+}
+.T\(-12px\) {
+  top: -12px;
+}
+.End\(-5px\) {
+  right: -5px;
+}
+.P\(20px\) {
+  padding: 20px;
+}
+.Px\(5px\) {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.Pstart\(10px\) {
+  padding-left: 10px;
+}
+.Pstart\(35px\) {
+  padding-left: 35px;
+}
+.Pos\(a\) {
+  position: absolute;
+}
+.Pos\(r\) {
+  position: relative;
+}
+.Ta\(c\) {
+  text-align: center;
+}
+.Ta\(s\) {
+  text-align: start;
+}
+.W\(0\) {
+  width: 0;
+}
+.W\(100\%\) {
+  width: 100%;
+}
+.W\(100px\) {
+  width: 100px;
+}
+.W\(80\%\) {
+  width: 80%;
+}
