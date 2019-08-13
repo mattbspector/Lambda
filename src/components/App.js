@@ -19,7 +19,7 @@ export class App extends Component {
         const { studentList } = this.props.student || [];
         const studentMarkup = studentList.map((student) => {
             return (
-            <div key={'student-' + student.KEY} className="W(80%) Mx(a) My(5px) Cur(p) Bgc(#e9eaec) Bgc(#f5f5f5):h P(20px) Bdrs(6px) Bdcl(c) Bd(1px) Bdc(#eeeeee) Bds(s)">
+            <div key={'student-' + student.KEY}>
                 <StudentRow student={student} />
             </div> );
         });
